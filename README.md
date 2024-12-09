@@ -1,2 +1,2 @@
-# UAS_OS2024
+# UAS_OS
 membuat library sendiri dalam bahasa C
